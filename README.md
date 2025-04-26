@@ -1,1 +1,1 @@
-# NGIX
+# NGINX
